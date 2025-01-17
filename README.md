@@ -1,2 +1,6 @@
 # ESP32-Magnetometer-Data-Receiver
-A simple program to receive data from a module on platformio
+<p align="left">
+  <strong>-</strong>
+  <br/>
+  <img src=""/>
+</p>
