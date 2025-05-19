@@ -1,4 +1,4 @@
-# ESP32-Magnetometer-Data-Receiver
+# ESP32 Magnetometer Data Receiver
 <p align="left">
   <strong>-</strong>
   <br/>
